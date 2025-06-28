@@ -1,9 +1,5 @@
----
-title: "Getting and Cleaning Data Project"
-author: "John Leo Echevaria"
-date: "2025-06-28"
-output: html_document
----
+
+# Getting and Cleaning Data Project
 
 ## Project Goals
 

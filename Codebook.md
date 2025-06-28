@@ -1,9 +1,3 @@
----
-title: "Getting and Cleaning Data Project"
-author: "John Leo D. Echevaria"
-output: html_document
----
-
 # Overview
 
 This document outlines the dataset, variables, and processing steps used in the final project for the *Getting and Cleaning Data* course offered by Johns Hopkins University on Coursera.
